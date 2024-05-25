@@ -45,10 +45,6 @@ This project focuses on analyzing financial data of various stocks and generatin
 
 4. **View Results**: Use the provided SQL queries or functions to view the trading signals for specific dates.
 
-Certainly! Here's an additional section explaining the project in more detail:
-
----
-
 ## Project Explanation
 
 This project aims to provide a comprehensive analysis of stock data and generate actionable trading signals based on moving averages. The key components of the project include:
